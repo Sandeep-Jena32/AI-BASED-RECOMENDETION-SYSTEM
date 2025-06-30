@@ -1,1 +1,23 @@
 # AI-BASED-RECOMENDETION-SYSTEM
+
+*COMPANY*: CODTECH IT SOLUTIONS
+
+*NAME*: SANDEEP KUMAR JENA
+
+*INTERN ID*: CT04DF1666
+
+*DOMAIN*: JAVA PROGRAMMING
+
+*DURATION*: 4 WEEKS
+
+*MENTOR*: NEELA SANTOSH
+
+## TASK IS AI BASED RECOMENDENTION SYSTEM, VS CODE IS USED
+
+# INPUT
+
+![Image](https://github.com/user-attachments/assets/0011ed67-e965-4750-852e-0aeba92584be)
+
+# OUTPUT
+
+![Image](https://github.com/user-attachments/assets/a26ffadc-d010-4028-97c9-3a51b608dcab)
